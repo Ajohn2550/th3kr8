@@ -1,0 +1,6 @@
+{
+  "express": {
+    "port": 8080
+  },
+  "mongodb": "mongodb://localhost/th3kr8"
+}
